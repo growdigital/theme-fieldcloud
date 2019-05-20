@@ -73,7 +73,7 @@ class OC_Theme {
    * @return string title
    */
   public function getTitle() {
-    return 'Fieldcraft Cloud';
+    return 'Fieldcraft Studios';
   }
 
   /**
@@ -81,7 +81,7 @@ class OC_Theme {
    * @return string title
    */
   public function getName() {
-    return 'Fieldcraft Cloud';
+    return 'Fieldcraft Studios';
   }
 
   /**
@@ -89,7 +89,7 @@ class OC_Theme {
    * @return string title
    */
   public function getHTMLName() {
-    return 'Fieldcraft Cloud';
+    return 'Fieldcraft Studios';
   }
 
   /**
