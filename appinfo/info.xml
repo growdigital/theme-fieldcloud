@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info>
+	<id>theme-fieldcloud</id>
+	<name>Fieldcraft’s very ownCloud theme</name>
+	<description>This App provides the Fieldcraft ownCloud theme.</description>
+	<licence>AGPL</licence>
+	<author>Philipp Schaffrath & Jake Rayson</author>
+	<version>1.0.0</version>
+	<types>
+		<theme/>
+	</types>
+	<dependencies>
+		<owncloud min-version="10.0.9" max-version="10.1" />
+	</dependencies>
+	<namespace>Theme</namespace>
+</info>
